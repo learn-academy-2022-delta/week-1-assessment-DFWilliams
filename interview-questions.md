@@ -31,9 +31,9 @@ INSTRUCTOR EXAMPLE: What is a conditional statement?
 
 3. What is an index? What is the difference between index and value?
 
-  Your answer: 
+  Your answer: The index is the location of a value within an array. Arrays are zero-indexed so it is counted as 0, 1, 2 , 3...ect. In the array [Dasher, Dancer, Prancer, Dixon], "Dasher" would be at the 0 index location, "Dancer" at the 1 index, "Prancer" at the 2 index and so on. 
 
-  Researched answer: 
+  Researched answer: index is a read-only property, meaning that it can be accessed but not assinged a value. Index provides the position of letters and spaces in strings and of values within a array. Index is zero-based, so it starts with 0 and contiues 1, 2, 3...ect.
 
 
 
