@@ -15,41 +15,41 @@ INSTRUCTOR EXAMPLE: What is a conditional statement?
 
 1. What is git? What is the difference between git and Github?
 
-  Your answer:
+  Your answer: Git is a version control software used to work on code with others. GitHub is the appilcation through which the git software is used. This were code is pushed from your local machine in order to share code and collaborate. 
 
-  Researched answer:
+  Researched answer: Git is version control software that can track the changes in source code. This cane be extremely helpful in that git saves every change like a type of screenshot. so, if you need to got back to a specific change you made you are able to. Git doesn't track the changes right as they happen so it can be difficult to work in tanden with others. This is where GitHub comes into play. GitHub is an application that Git can be used on. It allow you to work in tandem with others because of its cloud-based storage capabilites. 
 
 
 
 2. Which JavaScript operators will return a Boolean value?
 
-  Your answer:
+  Your answer: Equality operators 
 
-  Researched answer:
+  Researched answer: Equality operators, Logical operator, and rational operators 
 
 
 
 3. What is an index? What is the difference between index and value?
 
-  Your answer:
+  Your answer: The index is the location of a value within an array. Arrays are zero-indexed so it is counted as 0, 1, 2 , 3...ect. In the array [Dasher, Dancer, Prancer, Dixon], "Dasher" would be at the 0 index location, "Dancer" at the 1 index, "Prancer" at the 2 index and so on. 
 
-  Researched answer:
+  Researched answer: index is a read-only property, meaning that it can be accessed but not assinged a value. Index provides the position of letters and spaces in strings and of values within a array. Index is zero-based, so it starts with 0 and contiues 1, 2, 3...ect.
 
 
 
 4. What is iteration?
 
-  Your answer:
+  Your answer: a cycle of the for loop
 
-  Researched answer:
+  Researched answer: Commonly used on loops, iteration is the act of running an action over and over again until a certain condition is met 
 
 
 
 5. Give a brief description of proper pair programming techniques. What are the roles of each person?
 
-  Your answer:
+  Your answer: Proper pair programming is when two individuals are able to clearly communicate and agree upon the roles of driver and navigator. The responsibility of the navigator to clearly communicate to the driver what code to write and to be detail oriented in order to catch mistakes. The navigator should be willing able to listen to the driver if they have any ideas to contribute. The responsibilty of the driver is to be willing to listen to the navigator instruction. The driver should also be detail oriented when coding as to avoid silly mistakes. Also both participants should routinely switch roles so that each person can gain the experience in both roles. 
 
-  Researched answer:
+  Researched answer: Pair programming when 2 people work together to create code. There is a person to do the actual typing - the driver, and there is another provides the information to code. Proper practice of pair programming is to create a supportive environment for both parnters. This will make the pair feel at ease to ask question if one or the other is stuck on a certain concept. Another thing would be to agree upon a goal for the work before beginnning. Clear and consistent commmunication is very important as well, with that communication there needs to be active listening as well. Making sure to switch roles often is also important. It is also a good technique to take breaks when needed
 
 
 
